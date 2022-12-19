@@ -46,7 +46,7 @@ const Hero = () => {
           >
             <img
               className="rounded-full w-full h-full object-cover"
-              src="https://media-exp1.licdn.com/dms/image/D5603AQEWsB-vdqIH7A/profile-displayphoto-shrink_800_800/0/1670088537059?e=2147483647&v=beta&t=J6TAmxlafjZSc0t7oGPdqp203N-LTRBJlhQZPfem9i4"
+              src="../images/shylesh.jpg"
               alt="profile pic"
             />
           </div>
