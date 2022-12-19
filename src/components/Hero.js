@@ -1,10 +1,9 @@
 import React from "react";
 import { SiLinkedin } from "react-icons/si";
 import { FiMail } from "react-icons/fi";
-
+import shylesh from "../images/shylesh.jpg";
 
 const Hero = () => {
-  
   return (
     <div className={"hero__container container-xl mx-[15%] p-4 "}>
       <div className="grid grid-cols-2">
@@ -48,7 +47,7 @@ const Hero = () => {
           >
             <img
               className="rounded-full w-full h-full object-cover"
-              src="../images/shylesh.jpg"
+              src={shylesh}
               alt="profile pic"
             />
           </div>
